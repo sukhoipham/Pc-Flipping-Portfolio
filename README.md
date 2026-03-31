@@ -10,4 +10,4 @@ This repository serves as technical documentation for my hardware flipping busin
 **Specs:** Intel i5-13500 | RTX 3080 | 32GB DDR5 | 1TB NVMe
 * **Status:** Sold ($1,250)
 * **Technical Challenges:** Resolved a BIOS incompatibility issue and optimized fan curves for the RTX 3080's thermal profile.
-* **Photos:** ![Build 1](PC#6)
+* **Photos:** ![Build 1](3070+5600X.jpg)
