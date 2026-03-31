@@ -35,7 +35,7 @@ Case - DIYPC ARGB-G5-BK
 * **Profit:** $26
 * **Details:** This was my very first build I made. I bought all the parts seperately and then assembled them all together. This computer orginally had an i3 10100F but then was replaced with an i5 10400 in my personal PC to sell quicker. Althought the profits weren't the best, I got valuable learning experience from it.
 * **Things Learned:** 1. How to build a PC  2. How to find deals  3. Parts that look appealing to buyers and parts that don't
-* **Photos:** ![Build 1](pc_build_one.webp)
+* **Photos:** ![Build 1](pc_build_one.webp) <img src="pc_build_one.webp" width="400">
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X)
 **Specs:** 
