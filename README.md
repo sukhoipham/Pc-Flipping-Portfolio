@@ -2,7 +2,7 @@
 This repository serves as technical documentation for my hardware flipping business.
 
 ## Summary Statistics
-* **Total Systems Flipped:** 12
+* **Total Systems Flipped:** 7
 * **Average Profit Margin:** 22%
 * **E-Waste Diverted:** ~150 lbs of hardware
 
