@@ -61,8 +61,8 @@ Case: XPG Invader X ATX
 * **Price sold for:** $920
 * **Profit:** $130
 * **Details:** This PC was my first PC that used an already prebuilt PC and upgraded that PC. The original pc had an GTX 1080, but I replaced it with an RTX 3080 because the gpu was bottlenecking the CPU. I don't have the GTX 1080 anymore because I gave it away as a birthday present. I also upgraded the case and cooler, so if you include the cost of the RTX 3080, the total cost of the upgrades is $385. Although after upgrading the case, I sold the old case and the pcie extender that came with the case for a total of $20.
-* **Things Learned:** 
-* **Photos:** <img src="pc_build_one.webp" width="400">
+* **Things Learned:** 1. A good price to buy an rtx 3080 is around $300 2. Buying a whole PC and then reselling is a lot easier than scavenging for each part seperately
+* **Photos:** <img src="pc_build_two.avif" width="400">
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X)
 **Specs:** 
