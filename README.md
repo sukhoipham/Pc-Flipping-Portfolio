@@ -17,9 +17,6 @@ This repository serves as technical documentation for my hardware flipping busin
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 
 ---
-
-## Welcome
-Welcome to my technical ledger. This site documents my hardware builds, market analysis, and refurbishment processes.
 ## Project Log: 
 
 ### Build #01 (GTX 1080 + i5 10400)
