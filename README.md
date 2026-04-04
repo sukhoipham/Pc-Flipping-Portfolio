@@ -1,4 +1,4 @@
-# Pc-Flipping-Portfolio
+# Pc Flipping Portfolio
 This repository serves as technical documentation for my hardware flipping business, and will document all sales made by me.
 
 ## Where I sell on:
