@@ -1,5 +1,6 @@
 # Home
 This repository serves as technical documentation for my hardware flipping business, and will document all sales made by me.
+
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 
 ## Where I sell on:
