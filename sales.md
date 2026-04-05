@@ -27,6 +27,32 @@ Case: Aura case
 * **Details:** Originally bought a PC that had everything inside of this pc except instead of an RTX 3070, it had an RTX 3080. I replaced the RTX 3080 with the RTX 3070 that was in a different PC that I bought (Build #7), and valued this pc to cost me $650.
 * **Photos:** <img src="3070+5600X.jpg" width="400">
 _____________________________________________
+### Build #05 (RTX 3080 + i7 10700K) 2/26
+**Specs:** 
+CPU: i7 10700k 8 Core / 16 Threads
+
+GPU: EVGA RTX 3080 FTW3 10GB
+
+MOBO:  ASUS Z590
+
+RAM: 16gb Corsair RGB
+
+Storage: 1tb m.2 nvme ssd
+
+Cooler: Corsair AIO 
+
+PSU: Corsair 850W
+
+Case: Corsair case
+
+* **Sold On:** Facebook Marketplace
+* **Cost:** $700
+* **Price sold for:** 850
+* **Profit:** $150
+* **Details:** I bought this PC on offerup at a really good deal, but it was a really dirty. All I did to it was clean it as best as I could then I relisted it. I did not take out any parts at all, and this was probably the easiest sale I made at the time.
+* **Things Learned:** <b>1.</b> You don't always have to upgrade or replace parts, you can just relist it without changing anything
+* **Photos:** <img src="pc_build_five.jpg" width="400">
+_____________________________________________
 ### Build #04 (GTX 1060 + Ryzen 5 1500X) 2/26
 **Specs:** 
 CPU: Ryzen 5 1500X
