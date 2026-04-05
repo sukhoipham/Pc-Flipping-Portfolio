@@ -1,5 +1,6 @@
-# Pc Flipping Portfolio
+# Home
 This repository serves as technical documentation for my hardware flipping business, and will document all sales made by me.
+[🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 
 ## Where I sell on:
 * **Jawa.gg** https://www.jawa.gg/sp/515295/koi-fish-pcs
@@ -13,5 +14,5 @@ This repository serves as technical documentation for my hardware flipping busin
 * **Total Systems Flipped:** 7
 * **Average Profit Margin:** ?
 
-# PC Refurbishment Portfolio
+
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
