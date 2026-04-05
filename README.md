@@ -16,4 +16,3 @@ This repository serves as technical documentation for my hardware flipping busin
 * **Average Profit Margin:** ?
 
 
-[🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
